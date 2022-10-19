@@ -76,6 +76,10 @@ This resource is meant to be focused on developer tools.
 - [neofs-api-csharp](https://github.com/neo-ngd/neofs-api-csharp) - WIP NeoFS API C# implementation
 - [Greenfinch](https://github.com/configwizard/greenfinch-api) - NeoFS RESTful API
 
+#### Oracle
+
+- [Neo Oracle Service](https://docs.neo.org/docs/en-us/advanced/oracle.html) - Neo Oracle Service is an out-of-chain data access service built into Neo N3.
+
 ### Debugging
 
 - [Neo-Express](https://github.com/neo-project/neo-express) - Neo Private Net optimized for development scenarios.
