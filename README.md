@@ -92,6 +92,7 @@ This resource is meant to be focused on developer tools.
 ### Security Tools
 
 - [Red4Sec](https://red4sec.com/en) - Audit Neo smart contracts to identify possible vulnerabilities or failures in the behavior of the code and proceed to their mitigation.
+- [Overlord](https://overlord.wtf/) - OVERLORD are people who believe code is law and are guardians of the web3.0 security
 
 ### Other Miscellaneous Tools
 
