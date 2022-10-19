@@ -78,7 +78,9 @@ This resource is meant to be focused on developer tools.
 
 ### Debugging
 
-- [NeoTrace](https://github.com/neo-project/neo-express) - Neo-Trace is a tool to generate Neo Smart Contract Debugger trace files for existing blocks or transactions.
+- [Neo-Express](https://github.com/neo-project/neo-express) - Neo Private Net optimized for development scenarios.
+- [Neo-WorkNet](https://github.com/neo-project/neo-express/releases/tag/3.5.11-preview) - This tool allows you to branch an existing public Neo N3 blockchain- like MainNet - locally for development and testing purposes.
+- [Neo-Trace](https://github.com/neo-project/neo-express/releases/tag/3.5.11-preview) - Neo-Trace is a tool to generate Neo Smart Contract Debugger trace files for existing blocks or transactions.
 - [NeoTrace Tutorial Part 1](https://youtu.be/1dm_qbQ_cr4) - NeoTrace Debug tooling Part 1
 - [NeoTrace Tutorial Part 2](https://youtu.be/wLKmdPEZ54k) - NeoTrace Debug tooling Part 2
 - [Debugging your Smart Contract with Visual Studio Code](https://ngdenterprise.com/neo-tutorials/quickstart5.html) - Debugging your Smart Contract with Visual Studio Code
